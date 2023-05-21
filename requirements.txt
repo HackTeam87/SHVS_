@@ -1,0 +1,7 @@
+vosk
+sounddevice
+pyttsx3
+scikit-learn
+requests
+pyyaml
+RPi.GPIO

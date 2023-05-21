@@ -1,0 +1,39 @@
+---
+#wintele
+один:
+- ip: "10.2.1.11"
+- name: "bdcom"
+- group: "wintele"
+два:
+- ip: "10.2.1.14"
+- name: "bdcom"
+- group: "wintele"
+три:
+- ip: "10.2.1.27"
+- name: "cdata"
+- group: "wintele"
+десять:
+- ip: "10.2.1.8"
+- name: "cdata"
+- group: "wintele"
+#Golden
+пять:
+- ip: "10.1.3.2"
+- name: "edge_core"
+- group: "golden"
+шесть:
+- ip: "10.1.3.3"
+- name: "edge_core"
+- group: "golden"
+семь:
+- ip: "10.1.3.11"
+- name: "edge_core"
+- group: "golden"
+восемь:
+- ip: "golden.net.ua"
+- name: "edge_core"
+- group: "golden_server"
+биллинг:
+- ip: "service.golden.net.ua"
+- name: "edge_core"
+- group: "golden_server"
